@@ -1,0 +1,5 @@
+#+LAYOUT: default
+#+CATEGORY: Projects
+#+TITLE: <a href="https://github.com/krazedkrish/Web-Pro-ua-netinst">Web-Pro-ua-netinst</a>
+
+You loved playing with raspberry pi. I did as well. Modifying the Raspbian-net-netinstaller, this project created the latest iso for the raspberry pie. We used this for sinage until [[https://github.com/wireload/screenly-ose][Screenly-ose]] showed up.

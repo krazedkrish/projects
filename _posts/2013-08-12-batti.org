@@ -1,0 +1,6 @@
+#+LAYOUT: default
+#+IMG: batti.png
+#+CATEGORY: Projects
+#+TITLE: <a href="https://github.com/foss-np/batti">Batti cli loadshedding app</a>
+
+Why open the pdf every time just to check the schedule. Instead, [[https://github.com/zerOnepal][zerOnepal]], [[https://github.com/rhoit/][Rhoit]] and [[https://github.com/krazedkrish/][me]] created a cli app, that  parses the pdf and extracts the schedule. Later this app is accessed through cli.

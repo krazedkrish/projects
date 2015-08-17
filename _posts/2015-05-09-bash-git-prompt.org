@@ -1,0 +1,6 @@
+#+LAYOUT: default
+#+IMG: bash-git-prompt.png
+#+CATEGORY: Projects
+#+TITLE: <a href="https://github.com/krazedkrish/bash-git-prompt">bash-git-prompt</a>
+
+It is an informative and fancy bash prompt for Git users. I added several themes in it.

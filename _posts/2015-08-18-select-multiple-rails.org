@@ -1,0 +1,10 @@
+#+LAYOUT: default
+#+IMG: select-multiple-rails.png
+#+CATEGORY: Projects
+#+TITLE: <a href="https://github.com/krazedkrish/select-multiple-rails">select-multiple-rails</a>
+
+This is gem for select-multiple jquery plugin. [[http://krazedkrish.com/select-multiple][Select Multiple]] is an awesome user-friendlier drop-in replacement for the standard *<select>* with multiple attribute activated.
+
+The select-multiple-rails gem integrates select-multiple with the Rails asset pipeline.
+
+The gem is available for free at [[https://rubygems.org/gems/select-multiple-rails][https://rubygems.org/]].
