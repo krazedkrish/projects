@@ -296,6 +296,7 @@ p.contact-message {
     color: #f8f8f8;
     background: url(../img/intro-bg.jpg) no-repeat center center;
     background-size: cover;
+    margin-bottom: 0px;
 }
 
 .page-message {
