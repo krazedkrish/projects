@@ -1,4 +1,4 @@
-#[krazedkrish.com](http://krazedkrish.com)
+#[krazedkrish.com/projects](http://krazedkrish.com/projects)
 
 This site uses Jekyll with Landing Page theme.
 
