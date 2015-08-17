@@ -455,3 +455,9 @@ blockquote {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
 }
+
+.footer-divider {
+    border-color: #ddd;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
