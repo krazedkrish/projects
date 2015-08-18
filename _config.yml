@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://krazedkrish.com/projects/
+url: http://krazedkrish.com
+baseurl: "/projects"
 title: krazedkrish
 email: krazedkrish@gmail.com
 author: Shalil Awaley
