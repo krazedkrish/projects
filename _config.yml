@@ -32,4 +32,6 @@ social:
   - title: stack-overflow
     url: https://stackoverflow.com/users/5688098/krazedkrish
 
-gems: [jekyll-sitemap]
+plugins:
+  - jekyll-sitemap
+  - jekyll-org

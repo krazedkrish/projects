@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.3.1'
+ruby '2.6.3'
 
 # require 'json'
 # require 'open-uri'
@@ -10,3 +10,4 @@ gem 'github-pages'
 gem 'org-ruby'
 gem 'jekyll-sitemap'
 gem 'pygments.rb'
+gem 'jekyll-org', '>= 1.1.0'
